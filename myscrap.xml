@@ -1,7 +1,7 @@
 <AppUpdater>
   <update>
-    <latestVersion>4.0.0.2</latestVersion>
-    <latestVersionCode>402</latestVersionCode>
+    <latestVersion>4.0.0.4</latestVersion>
+    <latestVersionCode>404</latestVersionCode>
     <url>https://play.google.com/store/apps/details?id=com.myscrap</url>
   </update>
 </AppUpdater>
